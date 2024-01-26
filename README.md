@@ -1,0 +1,2 @@
+<p>Hola, mi nombre es David Armas, soy un ingeniero con más de cinco años de experiencia en el campo de la informatica, actualmente desarrollando proyectos fullstack basados en React.js y Django o usando Firebase</p>
+<p>Entre los campos en los cuales tengo experiencia se encuentra el desarrollo de proyectos con Big Data para encontrar areas de oportunidad basadas en registros historicos, esto apoyado de herramientas especializadas como Power Bi</p>
