@@ -3,7 +3,7 @@
 <p>Mis habilidades incluyen un fuerte compromiso con el aprendizaje continuo y una pasión por explorar nuevas tecnologías en busca de áreas de mejora. Tengo experiencia destacada en la automatización de procesos y en la optimización eficiente de recursos.</p>
 <p>Mis proyectos como analista de datos: 
   <ul>
-    <li><a href="https://github.com/DavidArmasCt/Analisis-de-tendencia-de-rutas">Analisis de tendencia de rutas</a></li>
-    <li><a href="">Análisis de materiales con mayor demanda por periodo anual para generar estrategias de compra y optimizar tiempos de entrega y costos.</a></li>
+    <li><a href="https://github.com/DavidArmasCt/Analisis-de-tendencia-de-rutas">Analisis de tendencia de rutas para optmizacion de recursos de capital humano y respaldo logistico.</a></li>
+    <li><a href="https://github.com/DavidArmasCt/Analisis-de-materiales-con-mayor-demanda-anual">Análisis de materiales con mayor demanda por periodo anual para generar estrategias de compra y optimizar tiempos de entrega y costos.</a></li>
   </ul>  
 </p>
