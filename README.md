@@ -5,6 +5,7 @@
   <ul>
     <li><a href="https://github.com/DavidArmasCt/Analisis-de-tendencia-de-rutas">Análisis de tendencia de rutas para optimización de recursos de capital humano y respaldo logístico.</a></li>
     <li><a href="https://github.com/DavidArmasCt/Analisis-de-materiales-con-mayor-demanda-anual">Análisis de materiales con mayor demanda por periodo anual para generar estrategias de compra y optimizar tiempos de entrega y costos.</a></li>
+    <li><a href="https://github.com/DavidArmasCt/Reporte-de-ventas-diarias">Integración de bases de datos de sucursales remotas para reporte de ventas</a></li>
   </ul>  
 </p>
 
